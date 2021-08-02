@@ -15,6 +15,7 @@
 		842072F326B4056700F07AF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842072F126B4056700F07AF9 /* LaunchScreen.storyboard */; };
 		842072FE26B4056700F07AF9 /* testMapRouteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842072FD26B4056700F07AF9 /* testMapRouteTests.swift */; };
 		8420730926B4056700F07AF9 /* testMapRouteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8420730826B4056700F07AF9 /* testMapRouteUITests.swift */; };
+		8420731726B40F5800F07AF9 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8420731626B40F5800F07AF9 /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8420730426B4056700F07AF9 /* testMapRouteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testMapRouteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8420730826B4056700F07AF9 /* testMapRouteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testMapRouteUITests.swift; sourceTree = "<group>"; };
 		8420730A26B4056700F07AF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8420731626B40F5800F07AF9 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				842072E626B4056500F07AF9 /* AppDelegate.swift */,
 				842072E826B4056500F07AF9 /* SceneDelegate.swift */,
 				842072EA26B4056500F07AF9 /* ViewController.swift */,
+				8420731626B40F5800F07AF9 /* Alert.swift */,
 				842072EC26B4056500F07AF9 /* Main.storyboard */,
 				842072EF26B4056700F07AF9 /* Assets.xcassets */,
 				842072F126B4056700F07AF9 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				842072EB26B4056500F07AF9 /* ViewController.swift in Sources */,
 				842072E726B4056500F07AF9 /* AppDelegate.swift in Sources */,
+				8420731726B40F5800F07AF9 /* Alert.swift in Sources */,
 				842072E926B4056500F07AF9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
